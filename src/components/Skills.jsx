@@ -2,7 +2,7 @@ const Skills = () =>{
     return(
         <div className="container">
             <h1 className="text-4xl">SKILLS</h1>
-            <h3 className="text-custom-grey text-2xl">LIBRARIES, LANGUAGES & FRAMEWORKS</h3>
+            <h3 className="text-tert text-2xl">LIBRARIES, LANGUAGES & FRAMEWORKS</h3>
 
             <div>
                 <ul className="flex flex-wrap space-x-2 text-4xl gap-2">
@@ -17,7 +17,7 @@ const Skills = () =>{
                     <li><i class="fab fa-laravel"></i><h6>Laravel</h6></li>
                 </ul>            
             </div>
-            <h3 className="text-custom-grey text-2xl">TOOLS & SERVICES</h3>
+            <h3 className="text-tert text-2xl">TOOLS & SERVICES</h3>
             <div>
             <ul className="flex flex-wrap space-x-2 text-4xl gap-2">
                 <li><i class="fab fa-slack"></i><h6>Slack</h6></li>
