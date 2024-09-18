@@ -8,10 +8,10 @@
     @apply font-saira
 }
 .headerStyle{
-    @apply text-custom-black font-bold text-3xl
+    @apply text-secondary font-bold text-3xl
 }
 p,.sHead{
-    @apply text-verySM font-muli pt-4
+    @apply text-textSM font-muli pt-4
 }
 h1,h2{
     @apply font-bold
@@ -19,12 +19,12 @@ h1,h2{
 h6{
     @apply text-xl
 }
-li>i{
-    @apply text-custom-grey text-justify
-}
 .container{
     @apply max-w-5xl mx-auto p-1
 }
 .container>*{
     @apply p-2 m-1
+}
+.dateStyle{
+    @apply text-primary flex flex-wrap sm:float-right;
 }

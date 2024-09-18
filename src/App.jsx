@@ -1,15 +1,16 @@
-import { useState } from 'react';
 import Header from './components/Header';
 import Education from './components/Education';
 import Skills from './components/Skills';
-import './components/assets/Index.css'
+import Experience from './components/Experience';
+import './components/css/index.css';
 function App() {
 
   return (
     <>
-    <Header/>
-    <Education/>
-    <Skills/>
+      <Header/>
+      <Education/>
+      <Skills/>
+      <Experience/>
     </>
   )
 }

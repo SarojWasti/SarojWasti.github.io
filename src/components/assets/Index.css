@@ -24,8 +24,8 @@ li{
     @apply text-justify text-tert
 }
 .container{
-    @apply max-w-5xl mx-auto p-1
+    @apply max-w-5xl mx-auto p-2
 }
 .container>*{
-    @apply p-2 m-1
+    @apply p-2 m-1 pt-2
 }
