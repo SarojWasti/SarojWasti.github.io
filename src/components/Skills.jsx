@@ -24,7 +24,7 @@ const Skills = () =>{
                 <li><i class="fab fa-github"></i><h6>github</h6></li>
                 <li><i class="fab fa-git"></i><h6>GIT</h6></li>
                 <li><i class="fab fa-docker"></i><h6>Docker</h6></li>
-                <li><i class="fa-solid fa-database"></i><h6>MongoDB</h6></li>
+                <li><i class="fa-solid fa-database"></i><h6>Firebase</h6></li>
                 <li><i class="fab fa-microsoft"></i><h6>Microsoft Office</h6></li>
 
             </ul>             
